@@ -40,3 +40,15 @@ pip list
 pip install -r requirements.txt
 
 ```
+
+
+## Required Git commands
+
+```bash
+git add .
+
+git commit -m "updated"
+
+git push origin main
+
+```
